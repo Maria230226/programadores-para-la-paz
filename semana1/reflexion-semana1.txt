@@ -1,0 +1,6 @@
+ Reflexión de la semana
+En un texto de 8 a 10 líneas, responde:
+
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+Cuando inicié el curso, no pensaba mucho en cómo compartía información en internet. Ahora que he aprendido sobre el tema, entiendo que cada vez que se comparte algo sin verificar, puede que se ayude a que una mentira se expanda. Ser un ciudadano respondable significa pensar antes de dar clic en compartir.
+Lo que más me sorprende es conectar todo lo de reponsabilidad y manejo con Git. Al principio parecía solo una herramienta técnica, pero en realidad nos enseña a ser ordenados y transparentes con nuestro trabajo, igual que debemos serlo con la información que consumimos y compartimos en internet. 
