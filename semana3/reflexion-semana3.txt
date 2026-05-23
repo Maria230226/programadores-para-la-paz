@@ -1,0 +1,8 @@
+Antes de aprender Git no entendía por qué era importante registrar
+los cambios de un proyecto. Ahora entiendo que Git guarda el historial
+completo de todo lo que hacemos, lo cual es muy útil.
+Si cometemos un error, podemos volver a una versión anterior sin
+perder todo el trabajo. También permite trabajar en equipo sin
+dañar el trabajo de los demás.
+Para mí, cada commit es un registro honesto de lo que hice y cuándo
+lo hice. Eso me parece fundamental para trabajar de forma organizada.
