@@ -1,0 +1,9 @@
+Al iniciar, no sabía para qué servía la terminal. Pensaba que
+era solo para programadores expertos. Pero ahora entiendo que es una herramienta
+fundamental para cualquier desarrollador, porque permite navegar y organizar
+los archivos de un proyecto de forma rápida y precisa.
+
+Usar la terminal me enseña a ser más ordenado con mis carpetas y archivos.
+En lugar de buscar todo con el mouse, puedo ir directamente a donde necesito
+con solo escribir un comando. Eso ahorra mucho tiempo cuando los proyectos
+crecen y tienen muchas carpetas.
