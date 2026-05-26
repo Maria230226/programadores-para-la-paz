@@ -1,0 +1,8 @@
+Cuando una comunidad puede construir sus propias herramientas tecnológicas,
+deja de depender de soluciones costosas o privadas. Node.js es gratuito
+y permite a cualquier persona crear servidores sin pagar licencias.
+Para iniciativas ciudadanas esto es clave, porque pueden crear plataformas
+adaptadas a sus necesidades reales. Una organización podría construir
+su propio sistema de registro o comunicación fácilmente.
+Aprender Node.js me enseña que la tecnología no es solo para expertos.
+Con práctica, cualquiera puede construir herramientas para su comunidad.
