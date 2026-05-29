@@ -1,0 +1,11 @@
+Ruta 1: http://localhost:3000
+Al ingresar a esta ruta aparece el mensaje "Servidor activo".
+El servidor responde correctamente a la ruta principal.
+
+Ruta 2: http://localhost:3000/saludo
+Al ingresar a esta ruta aparece el mensaje "Hola comunidad".
+El servidor responde con un saludo general.
+
+Ruta 3: http://localhost:3000/mensaje/maria
+Al ingresar a esta ruta aparece el mensaje "Hola maria".
+El servidor recibe el nombre como parámetro y lo incluye en la respuesta.
