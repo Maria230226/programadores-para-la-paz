@@ -1,0 +1,11 @@
+Cuando una comunidad puede registrar y consultar reportes en una
+plataforma tecnológica, se convierte en un actor activo de su propio
+territorio. Ya no depende solo de llamadas o visitas para reportar
+un problema; puede hacerlo de forma organizada y rápida.
+Además, tener los reportes guardados permite hacer seguimiento.
+Las autoridades o líderes comunitarios pueden consultar qué problemas
+existen, cuántos hay y cuáles son más urgentes.
+Aprender a construir estas rutas con Express me enseña que programar
+no es solo escribir código, sino crear soluciones reales para personas
+reales. Una plataforma de reportes comunitarios puede mejorar la
+calidad de vida de un barrio entero.

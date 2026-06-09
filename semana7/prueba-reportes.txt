@@ -1,0 +1,19 @@
+Al consultar la ruta GET http://localhost:3000/reportes, el servidor
+devuelve la lista de todos los reportes registrados en memoria.
+
+Si no se ha registrado ningún reporte, el servidor responde con una
+lista vacía: []
+
+Después de registrar un reporte con POST, al consultar GET /reportes
+el servidor responde con:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Los datos se guardan en memoria mientras el servidor está encendido.
+Si se reinicia el servidor, la lista vuelve a estar vacía.
