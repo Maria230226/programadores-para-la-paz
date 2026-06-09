@@ -1,0 +1,11 @@
+Cuando una plataforma puede recibir información estructurada de los ciudadanos,
+se convierte en una herramienta poderosa para la participación comunitaria.
+Un reporte organizado en JSON permite que el sistema lo procese, almacene
+y analice de forma eficiente.
+Esto es importante porque las comunidades tienen necesidades reales que
+necesitan ser documentadas y atendidas. Por ejemplo, reportar una lámpara
+dañada, un problema de agua o una situación de seguridad de forma ordenada
+ayuda a que las autoridades respondan más rápido.
+Aprender a construir estas rutas con Express me hace entender que la
+programación puede tener un impacto real en la vida de las personas,
+conectando la tecnología con las necesidades de la comunidad.
