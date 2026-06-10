@@ -1,0 +1,10 @@
+La seguridad digital es fundamental para cualquier plataforma que
+maneje información de personas o comunidades. Si una plataforma
+no protege bien sus datos, puede exponer información privada de
+sus usuarios y genear desconfianza. En procesos participativos esto es aún más importante, porque
+las personas comparten información sensible esperando que sea 
+protegida. Una falla de seguridad puede afectar no solo datos,
+sino también la integridad de un proceso comunitario. Aprender sobre Linux y la terminal me ayuda a entender cómo
+funcionan los servidores por dentro. Saber quién accede, qué
+permisos tiene y cómo está configurado el sistema es la base
+para construir plataformas seguras y confiables.

@@ -1,0 +1,15 @@
+Comando: uname -a
+Resultado: Linux codespaces-4a3368 6.8.0-1052-azure x86_64 GNU/Linux
+
+Este comando muestra información completa del sistema operativo:
+el nombre del sistema, el nombre del equipo, la versión del kernel,
+la arquitectura del procesador y el tipo de sistema.
+Es útil para saber qué sistema operativo y versión está corriendo
+en el servidor.
+
+Comando: whoami
+Resultado: codespace
+
+Este comando muestra el nombre del usuario activo en la terminal.
+Es útil para saber con qué permisos se están ejecutando los comandos
+y verificar que no se está trabajando como administrador sin necesidad.
