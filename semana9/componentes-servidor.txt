@@ -1,0 +1,24 @@
+Sistema operativo:
+Es el software base que administra el hardware del servidor.
+En este caso usamos Linux, que es un sistema de código abierto
+muy usado en servidores por su estabilidad y seguridad.
+
+Node.js:
+Es el entorno que permite ejecutar JavaScript en el servidor.
+Sin Node.js no podríamos correr nuestro archivo server.js
+ni responder solicitudes desde el backend.
+
+Aplicación server.js:
+Es el archivo principal que define las rutas y la lógica
+del servidor. Contiene las instrucciones que indican cómo
+responder a cada solicitud del usuario.
+
+Puerto:
+Es el canal específico por donde el servidor escucha solicitudes.
+En esta práctica usamos el puerto 3000. Es como la puerta
+de entrada al servidor.
+
+Logs:
+Son registros que guardan la actividad del servidor.
+Permiten saber qué ocurrió, cuándo ocurrió y detectar
+errores o comportamientos inesperados en el sistema.

@@ -1,0 +1,12 @@
+Una plataforma digital comunitaria necesita funcionar de manera
+estable porque las personas dependen de ella para participar,
+reportar problemas o acceder a información importante. Si el
+servidor falla, toda la comunidad pierde acceso al servicio.
+La seguridad también es fundamental porque en estas plataformas
+se maneja información de personas reales. Un servidor mal
+configurado puede exponer datos sensibles o permitir accesos
+no autorizados que afecten la confianza de la comunidad.
+Aprender sobre puertos, logs y estabilidad me ayuda a entender
+que programar no termina cuando el código funciona. También hay
+que asegurarse de que el servidor esté bien configurado, monitoreado
+y protegido para que la plataforma sea confiable a largo plazo.
