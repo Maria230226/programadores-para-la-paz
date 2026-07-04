@@ -1,0 +1,16 @@
+Evento que activa el flujo: un ciudadano marca un reporte como "urgente" al registrarlo.
+
+Acción: n8n detecta esta marca y envía automáticamente un mensaje a un grupo de Telegram
+del equipo coordinador, junto con la categoría del reporte y la fecha de registro.
+
+Mensaje enviado:  Reporte urgente registrado. Categoría: infraestructura. 
+Fecha: hoy. Por favor revisar el sistema a la brevedad.
+
+Información que NO debería enviarse por seguridad:
+- Nombres completos de las personas involucradas.
+- Números de documento de identidad.
+- Direcciones exactas o coordenadas precisas.
+- Números de teléfono o correos electrónicos.
+- Fotografías que puedan identificar a alguien.
+- Claves, tokens o contraseñas.
+- Cualquier dato sensible que permita identificar a alguien.
