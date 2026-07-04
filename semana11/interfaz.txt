@@ -1,0 +1,12 @@
+La interfaz tendría un formulario para registrar una nueva solicitud, con
+campos para descripción, ubicación general y fecha de registro.
+
+También mostraría una lista de solicitudes disponibles, donde los usuarios
+puedan consultar los casos que ya han sido registrados por la comunidad.
+
+Cada solicitud tendría un estado visible (pendiente, en proceso, atendida)
+junto con un contador o indicador que muestre en qué punto va su gestión.
+
+La interfaz debe ser simple y clara, mostrando solo la información
+necesaria para el seguimiento, sin exponer datos privados de quienes
+registraron cada solicitud ni detalles internos de la gestión.

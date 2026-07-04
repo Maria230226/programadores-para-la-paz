@@ -1,0 +1,13 @@
+Una plataforma tecnológica que promueve participación ciudadana necesita
+una base de datos porque sin ella no sería posible organizar, almacenar ni
+consultar las solicitudes de manera ordenada y confiable. La base de datos
+permite que cada caso registrado por la comunidad quede guardado y pueda
+ser consultado o gestionado cuando sea necesario. Además, la autenticación
+de usuarios es fundamental para controlar quién puede acceder a ciertas
+funciones, evitando que cualquier persona modifique el estado de una
+solicitud o consulte información que no le corresponde. Por último, la
+protección de información garantiza que los datos de los ciudadanos que
+registran sus solicitudes no queden expuestos a riesgos innecesarios. En
+conjunto, estos tres elementos permiten que la plataforma no solo
+funcione técnicamente, sino que también sea segura, confiable y
+respetuosa con la privacidad de la comunidad que la utiliza.

@@ -1,0 +1,17 @@
+El login es el proceso mediante el cual un usuario demuestra su identidad
+ante la plataforma, generalmente con un correo y una contraseña, antes de
+poder acceder a ciertas funciones del sistema.
+
+Algunas rutas deben estar protegidas porque permiten realizar acciones
+delicadas, como modificar el estado de una solicitud o consultar el
+listado completo de casos registrados, funciones que no deberían quedar
+abiertas a cualquier visitante.
+
+Proteger estas rutas también evita que personas externas alteren
+información, eliminen registros o accedan a funciones que solo le
+corresponden al equipo coordinador del proyecto.
+
+Por seguridad, nunca deben exponerse públicamente contraseñas, documentos
+de identidad, números de teléfono, direcciones exactas, tokens de acceso,
+claves de API ni ningún otro dato sensible de los ciudadanos o del equipo.
+

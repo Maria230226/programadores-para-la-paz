@@ -1,0 +1,25 @@
+Entidad: Solicitud
+
+Campos principales:
+- id
+- descripcion
+- ubicacion_general
+- fecha_registro
+
+Propósito:
+Guardar las solicitudes que los ciudadanos envían a través de la
+plataforma, permitiendo centralizar los casos que requieren atención.
+
+
+Entidad: Respuesta
+
+Campos principales:
+- id
+- solicitud_id
+- estado
+- comentario
+- fecha
+
+Propósito:
+Registrar cómo y cuándo se atendió cada solicitud, dejando evidencia del
+proceso y permitiendo hacer trazabilidad de la gestión realizada.
