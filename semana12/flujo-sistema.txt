@@ -1,0 +1,8 @@
+1. Un ciudadano crea una causa desde la plataforma, ingresando título y descripción.
+2. La causa queda registrada en la base de datos con fecha de creación.
+3. Otros ciudadanos pueden ver la causa y apoyarla con un solo clic.
+4. El sistema cuenta automáticamente los apoyos recibidos por cada causa.
+5. Cuando la causa alcanza un número mínimo de apoyos, el sistema genera un
+   documento PDF formal con la petición.
+6. n8n envía una notificación a Telegram avisando que una nueva petición
+   está lista para revisión.

@@ -1,0 +1,15 @@
+Evento: se registra una nueva causa en la plataforma.
+
+Accion: n8n detecta el nuevo registro y envia un mensaje automatico a un
+grupo de Telegram.
+
+Mensaje enviado: "Nueva causa creada en la plataforma. Revisar sistema
+para mas detalles."
+
+Informacion que no debe enviarse por seguridad:
+- Cedulas o documentos de identidad.
+- Numeros de telefono.
+- Direcciones fisicas.
+- Comentarios sensibles o privados.
+- Cualquier dato personal que permita identificar a alguien sin su
+  consentimiento.

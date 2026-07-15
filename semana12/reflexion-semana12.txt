@@ -1,0 +1,18 @@
+¡Excelente! Vamos con el último archivo.
+Paso 7: Reflexión final
+Copia y pega este bloque completo:
+bashcat > reflexion-semana12.txt << 'EOF'
+Durante el curso aprendi que la tecnologia puede ser una herramienta
+poderosa para fortalecer la participacion ciudadana cuando se diseña con
+responsabilidad. No basta con que un sistema funcione tecnicamente;
+tambien debe organizar la informacion de forma clara, proteger la
+privacidad de las personas y permitir que la comunidad haga seguimiento
+real a sus causas y solicitudes. Aprendi a usar metodologias agiles para
+dividir el trabajo en tareas pequeñas y priorizables mediante un backlog,
+lo cual facilita avanzar de forma ordenada. Tambien comprendi la
+importancia de una base de datos bien estructurada, de la autenticacion
+para controlar accesos, y de herramientas como n8n y Telegram para
+automatizar notificaciones sin exponer datos sensibles. En conjunto,
+estos aprendizajes me mostraron que una plataforma comunitaria exitosa
+combina buen diseño tecnico con criterios claros de privacidad,
+trazabilidad y responsabilidad social.
